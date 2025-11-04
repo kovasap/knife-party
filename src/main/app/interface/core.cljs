@@ -1,7 +1,8 @@
 (ns app.interface.core
   (:require ["react-dom/client" :refer [createRoot]]
             ; Import everything to make sure all event handlers are registered
-            [app.interface.abilities]
+            [app.interface.abilities.attack]
+            [app.interface.abilities.move]
             [app.interface.action]
             [app.interface.animations]
             [app.interface.characters]

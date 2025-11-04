@@ -1,4 +1,4 @@
-(ns app.interface.malli-schema-registry
+(ns app.interface.malli.schema-registry
   (:require 
     [malli.core :as m]
     [malli.registry :as mr]))

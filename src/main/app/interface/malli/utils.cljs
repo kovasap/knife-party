@@ -1,4 +1,4 @@
-(ns app.interface.malli-utils
+(ns app.interface.malli.utils
   (:require 
     [malli.core :as m]
     [malli.transform :as mt]))
